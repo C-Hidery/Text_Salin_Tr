@@ -1,4 +1,5 @@
 import json
+import enum
 from Models.Parser.DicTable import DicTable
 from Models.Parser.DefParser import DefinitionType, MoodType, TenseType, OtherType
 

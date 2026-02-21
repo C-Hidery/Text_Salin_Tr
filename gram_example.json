@@ -1,0 +1,34 @@
+{
+    "主谓宾结构": {
+        "S001": [
+            {"type": "DefinitionType", "value": 2},
+            {"type": "MoodType", "value": 1},
+            {"type": "TenseType", "value": 1},
+            {"type": "OtherType", "value": 33},
+            {"type": "OtherType", "value": 34}
+        ],
+        "S002": [
+            {"type": "DefinitionType", "value": 1},
+            {"type": "OtherType", "value": 33},
+            {"type": "OtherType", "value": 35}
+        ]
+    },
+    "疑问句结构": {
+        "Q001": [
+            {"type": "DefinitionType", "value": 6},
+            {"type": "MoodType", "value": 3},
+            {"type": "OtherType", "value": 24},
+            {"type": "OtherType", "value": 25},
+            {"type": "OtherType", "value": 33}
+        ]
+    },
+    "情感表达": {
+        "E001": [
+            {"type": "DefinitionType", "value": 3},
+            {"type": "OtherType", "value": 6},
+            {"type": "OtherType", "value": 7},
+            {"type": "OtherType", "value": 8},
+            {"type": "OtherType", "value": 31}
+        ]
+    }
+}

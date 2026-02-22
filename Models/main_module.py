@@ -1,6 +1,5 @@
 import Models.Parser.ActionTable
 import Models.Parser.GrammarTable
-from Models.Parser.DefParser import DefinitionType, MoodType, TenseType, OtherType
 import Models.Parser.DicTable
 class SalinModel:
     def __init__(self):
